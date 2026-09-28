@@ -2,7 +2,7 @@
 
 # Daniel Romulo Gomes
 
-### ☕ Backend Java Developer
+### ☕ Backend Developer
 
 Construindo aplicações backend escaláveis com Java, Spring Boot e boas práticas de Engenharia de Software.
 
