@@ -22,7 +22,7 @@ Construindo aplicações backend escaláveis com Java, Spring Boot e boas práti
 
 # 👨🏻‍💻 Sobre mim
 
-Sou desenvolvedor **Backend Java**, apaixonado por tecnologia e por criar soluções robustas, escaláveis e de fácil manutenção.
+Sou desenvolvedor **Backend**, apaixonado por tecnologia e por criar soluções robustas, escaláveis e de fácil manutenção.
 
 Tenho direcionado meus estudos e projetos para o ecossistema Java, buscando evoluir continuamente em desenvolvimento backend, arquitetura de software, bancos de dados, microsserviços e computação em nuvem.
 
